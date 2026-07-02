@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Caching files
-.pkl
+data/index.pkl
